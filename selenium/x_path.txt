@@ -1,0 +1,46 @@
+
+Login page
+
+ 
+
+Username    name="j_username"
+Password    name="j_password"
+
+ 
+
+Base Page
+Log_out      //div[@action="logout"]
+Three_dots     //div[@id="container-1432-innerCt"]
+Login button    //input[@id="loginForm_login"]
+go to project     //div[text()="go to project"]
+view inventory     //div[text()="view inventory"]
+view policy    //div[text()="view policy"]   
+
+ 
+
+
+Projects Page
+
+ 
+
+Add New   //span[text()="Add New"]
+Project    //span[text()="Project"]
+Name   //input[@id="textfield-1456-inputEl"]
+Save_button   //span[@id="button-1460-btnEl"]
+project_btn   //span[@class="link"]
+
+ 
+
+
+Summary_Page
+Upload_code   //span[text()="Upload Project Codebase"]
+Select_archieve   //input[@id="filefield-2160-button-fileInputEl"]
+Project_select    Needs to be check
+Upload_btn      //span[@id="button-2180-btnEl"]
+OK_btn           //span[@id="button-1005-btnEl"]
+Start_Scan     //span[@id="splitbutton-1848-btnEl"]
+
+ 
+
+Completed_status  //span[text()="completed"]
+Analysis_W_B     //span[text()="Analysis Workbench"]

@@ -1,0 +1,5 @@
+this is the text written by sarthak sachan
+this file is chosen to be read by python file read_text_file
+severals methods are defined
+this is my computer
+please add my append data

@@ -1,0 +1,13 @@
+<body bgcolor="#000000" text="red" align="center">
+
+
+<marquee></marquee>----->for continous data flow
+
+attribute--------------------------parameter
+1.behavior-------------------------scroll(default),alternate
+2.height---------------------------px
+3.width----------------------------px
+4.bgcolor--------------------------color code/name
+5.loop-----------------------------any number
+6.scoll amount---------------------any number
+7.direction------------------------left(default)(right,left,up,down)

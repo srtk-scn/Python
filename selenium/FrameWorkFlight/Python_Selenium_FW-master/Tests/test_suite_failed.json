@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Module1",
+    "execute": "Yes",
+    "tests": [
+      "test_01.py",
+      "test_01.py"
+    ]
+  }
+]

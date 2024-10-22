@@ -1,0 +1,25 @@
+'sarthak''s salary is 50000
+'karan''s salary is 5000
+'golu''s salary is 25000
+'sonal''s salary is 25500'sarthak''s salary is 50000
+'karan''s salary is 5000
+'golu''s salary is 25000
+'sonal''s salary is 25500'sarthak''s salary is 50000
+'karan''s salary is 5000
+'golu''s salary is 25000
+'sonal''s salary is 25500'sarthak''s salary is 50000
+'karan''s salary is 5000
+'golu''s salary is 25000
+'sonal''s salary is 25500'sarthak''s salary is 50000
+'karan''s salary is 5000
+'golu''s salary is 25000
+'sonal''s salary is 25500'sarthak''s salary is 50000
+'karan''s salary is 5000
+'golu''s salary is 25000
+'sonal''s salary is 25500'sarthak''s salary is 50000
+'karan''s salary is 5000
+'golu''s salary is 25000
+'sonal''s salary is 25500'sarthak''s salary is 50000
+'karan''s salary is 5000
+'golu''s salary is 25000
+'sonal''s salary is 25500

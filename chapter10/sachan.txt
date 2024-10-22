@@ -1,0 +1,4 @@
+'sarthak',50000
+'karan',5000
+'golu',25000
+'sonal',25500
