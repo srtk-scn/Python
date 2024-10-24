@@ -1,4 +1,4 @@
-#write a programto find the largest of list of  numbers
+#write a program to find the largest of list of  numbers
 def large(a):
     if a[0]>a[1]:
         fl=a[0]

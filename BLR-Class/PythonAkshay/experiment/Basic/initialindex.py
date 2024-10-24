@@ -1,4 +1,4 @@
-# WAP to get the initial index of particular charcter in a string between thr limits
+# WAP to get the initial index of particular charcter in a string between the limits
 # def index1(key,string,start_index=0,end_index=0):
 #     if end_index==0:
 #         end_index=len(string)

@@ -1,4 +1,4 @@
-#write a programto find the second largest of 4 numbers
+#write a program to find the second largest of 4 numbers
 
 # a,b,c,d=4,1,3,2
 def great3(x,y,z):

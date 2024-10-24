@@ -12,4 +12,4 @@ def fabo(n):
             a=b
             b=c
             print(c,end=" ")
-print(fabo(3))
+print(fabo(10))

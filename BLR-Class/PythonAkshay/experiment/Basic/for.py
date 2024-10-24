@@ -13,12 +13,12 @@
 # for i in n:
 #     sum+=int(i)
 # print(sum)
-# a= input("enter a sring")
-# temp=""
-# for i in a:
-#     if i not in temp:
-#         print(f"number of occurence of {i} is {a.count(i)}")
-#         temp+=i
+a= input("enter a sring")
+temp=""
+for i in a:
+    if i not in temp:
+        print(f"number of occurence of {i} is {a.count(i)}")
+        temp+=i
 # a= input("enter a sring")
 # temp=""
 # for i in range(0,len(a)):
